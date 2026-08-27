@@ -12,67 +12,26 @@ Copy the prompt, fill in your real information, and get a GitHub-ready profile R
 
 ## 1. 👀 See the Demo
 
-Want to see what the result can look like?
+Want to see what the result looks like?
 
-**[github.com/Ankitjha9732](https://github.com/Ankitjha9732)**
+👉 **[View My GitHub Profile](https://github.com/Ankitjha9732)**
 
-Use my GitHub profile as a visual reference. Don't copy my information — build your own profile using your own experience.
+Use my profile as inspiration. Don't copy my information —
+build yours with your own skills, projects, and experience.
 
-![Profile Screenshot](SCREENSHOTS/profile.png)
+![My GitHub Profile](./SCREENSHOTS/profile.png)
 
 ---
 
-## 2. ⚡ Step-by-Step
+## 2. ⚡ How to Build Yours
 
-### Step 1 — Prepare Your Information
-
-Have these ready before using the prompt:
-
-- Name
-- Short introduction (what you do)
-- Skills / tech stack
-- 2–3 projects with descriptions
-- Education / experience (if relevant)
-- GitHub, LinkedIn, and portfolio links
-
-### Step 2 — Copy the AI Prompt
-
-**[🚀 Open the Profile Prompt →](./prompts/profile-prompt.md)**
-
-### Step 3 — Give Your Information to AI
-
-Paste the prompt into ChatGPT, Claude, Gemini, or another AI assistant. Replace the `[PLACEHOLDERS]` with your **real** information.
-
-> Never let AI invent skills, projects, achievements, or experience that you don't have.
-
-### Step 4 — Generate & Review
-
-Check the AI output carefully:
-
-- AI didn't invent skills you don't have
-- AI didn't create fake projects
-- AI didn't add experience you haven't done
-- All links are correct
-- Information is accurate
-
-Make changes as needed before using it.
-
-### Step 5 — Create Your GitHub Profile README
-
-1. Go to [github.com/new](https://github.com/new)
-2. Create a new repository with **exactly** your GitHub username as the name
-3. Add a `README.md` file
-4. Paste the generated Markdown
-5. Commit the changes
-
-Your profile README will now appear on your GitHub profile page.
-
-### Step 6 — Improve Your Profile
-
-- Pin your best 6 repositories
-- Add descriptions to all repos
-- Write good READMEs for your projects
-- Add screenshots and demo links where useful
+1. **Prepare** your information — name, role, skills, projects, links
+2. **Copy** the AI prompt — [🚀 Open the Profile Prompt →](./prompts/profile-prompt.md)
+3. **Give** your information to AI — ChatGPT, Claude, Gemini, or another assistant
+4. **Review** the output — make sure AI didn't invent skills, projects, or experience
+5. **Create** a repository with your exact GitHub username
+6. **Add** the README — paste the generated Markdown and commit
+7. **Improve** — pin repos, add project READMEs, add screenshots
 
 ---
 
