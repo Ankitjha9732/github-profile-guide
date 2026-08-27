@@ -1,10 +1,8 @@
-# GitHub Profile README — AI Prompt
+# 🤖 GitHub Profile AI Prompt
 
-Copy the prompt below and paste it into ChatGPT, Claude, Gemini, or any capable AI model. Fill in your own information where indicated.
+> Copy everything below and paste it into ChatGPT, Claude, Gemini, or your preferred AI assistant.
 
 ---
-
-## The Prompt
 
 ```
 I want to create a professional GitHub profile README. Help me generate one based on the information I provide below. Use ONLY the information I give you — do not invent projects, skills, achievements, or experience that I do not mention.
@@ -70,26 +68,3 @@ For each project, provide:
 9. Make the profile easy to read and scan
 10. Keep it under 200 lines of Markdown
 ```
-
----
-
-## How to Use This Prompt
-
-1. Click the "Copy" button on the code block above
-2. Open ChatGPT, Claude, Gemini, or another AI model
-3. Paste the prompt
-4. Fill in YOUR information in the `[BRACKETS]`
-5. Send the message
-6. Copy the generated README
-7. Paste it into your GitHub profile README
-8. Review and customize as needed
-
----
-
-## Tips
-
-- **Be honest** — only list skills and projects you actually have
-- **Be specific** — "React, Node.js, MongoDB" is better than "full-stack"
-- **Show real projects** — even small projects count
-- **Include live demos** — deployed projects are more convincing
-- **Ask for revisions** — tell the AI to adjust tone, layout, or content
